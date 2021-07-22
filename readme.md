@@ -64,31 +64,31 @@ func.py存储了所有系统与数据库交互的函数以及前期数据库准�
 
 ## 系统主要界面及功能图
 
-<img src="https://cdn.jsdelivr.net/gh/er-jia/PicGo/20210723001527.png" alt="image-20210723001520353" style="zoom:80%;" />
+<img src="https://github.com/er-jia/PicGo/blob/master/20210723001527.png" alt="image-20210723001520353" style="zoom:80%;" />
 
 ## 系统运行截图
 
 管理界面
 
-<img src="https://cdn.jsdelivr.net/gh/er-jia/PicGo/20210723001721.png" alt="image-20210723001721864" style="zoom:50%;" />
+<img src="https://github.com/er-jia/PicGo/blob/master/20210723001721.png" alt="image-20210723001721864" style="zoom:50%;" />
 
 开户界面
 
-<img src="https://cdn.jsdelivr.net/gh/er-jia/PicGo/20210723001818.png" alt="image-20210723001818474" style="zoom:50%;" />
+<img src="https://github.com/er-jia/PicGo/blob/master/20210723001818.png" alt="image-20210723001818474" style="zoom:50%;" />
 
 登录界面
 
-<img src="https://cdn.jsdelivr.net/gh/er-jia/PicGo/20210723001857.png" alt="image-20210723001857440" style="zoom:50%;" />
+<img src="https://github.com/er-jia/PicGo/blob/master/20210723001857.png" alt="image-20210723001857440" style="zoom:50%;" />
 
 atm界面
 
-<img src="https://cdn.jsdelivr.net/gh/er-jia/PicGo/20210723002039.png" alt="image-20210723002039378" style="zoom:50%;" />
+<img src="https://github.com/er-jia/PicGo/blob/master/20210723002039.png" alt="image-20210723002039378" style="zoom:50%;" />
 
 取款界面
 
-<img src="https://cdn.jsdelivr.net/gh/er-jia/PicGo/20210723002108.png" alt="image-20210723002108261" style="zoom:50%;" />
+<img src="https://github.com/er-jia/PicGo/blob/master/20210723002108.png" alt="image-20210723002108261" style="zoom:50%;" />
 
 查询界面
 
-<img src="https://cdn.jsdelivr.net/gh/er-jia/PicGo/20210723004358.png" alt="image-20210723004358048" style="zoom:50%;" />
+<img src="https://github.com/er-jia/PicGo/blob/master/20210723004358.png" alt="image-20210723004358048" style="zoom:50%;" />
 
