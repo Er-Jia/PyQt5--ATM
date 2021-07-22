@@ -22,7 +22,7 @@ mysql 8.0
 
 系统数据库只有两张表，user表和card表，具体参数如下图，**在运行程序前一定要在func.py中将数据库信息更换为自己的**，否则不会运行成功。
 
-<img src="https://cdn.jsdelivr.net/gh/er-jia/PicGo/20210723005256.png" alt="image-20210723005255840" style="zoom:50%;" />
+<img src="https://github.com/er-jia/PicGo/blob/master/20210723005256.png" alt="image-20210723005255840" style="zoom:50%;" />
 
 
 
